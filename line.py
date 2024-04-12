@@ -22,4 +22,4 @@ def line():
     distancia=(d1+d2)**(1/2)
     print(f"La distancia entre ellos es: {distancia}")
 
-line()
+
